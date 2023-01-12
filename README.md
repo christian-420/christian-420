@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello;My+name+is+Christian)](https://git.io/typing-svg)
 
 <p align="center"> 
 <img src="https://streak-stats.demolab.com?user=christian-420&locale=fr&ring=FF918D&fire=34FF4E"/>
